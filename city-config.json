@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "city": "hamburg",
+  "repository": "crimemaps-Hamburg",
+  "base_path": "/crimemaps-Hamburg/",
+  "artifact_budget_bytes": 900000000,
+  "publication_ready": false
+}
