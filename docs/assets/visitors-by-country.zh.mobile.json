@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "city": "hamburg",
+  "locale": "zh",
+  "layout": "stacked",
+  "presentation": "world_map_and_rank",
+  "path": "docs/assets/visitors-by-country.zh.mobile.svg",
+  "sha256": "727d11cd1f82410d639b25c5704ef357036e5199793ed1380543850fe12e17a7",
+  "source_kind": "not_connected",
+  "collection_status": "not_connected",
+  "metric": null,
+  "source": null,
+  "generated_at_utc": null
+}
